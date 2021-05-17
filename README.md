@@ -4,8 +4,8 @@
 
 ## Technology
 
-# python3
-# jupyter notebook
+- python3
+- jupyter notebook
 
 
 
